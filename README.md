@@ -8,6 +8,7 @@ This is GUI based Data Management Program. This is specifically designed for Blo
 
 - PyQt5 - Used to design GUI of the software.
 - sqlite3 - Used to access and store data from [DataBase File](https://github.com/RajatLeo/Blood-Bank-Data-Management-GUI-based-Project/blob/master/BloodData.db).
+- matplotlib - Used to plot graph to show relative stock of various Blood Group.
 - sys - Used to close various Window after using them.
 
 **Installing:**
